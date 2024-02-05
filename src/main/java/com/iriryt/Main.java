@@ -4,7 +4,7 @@ package com.iriryt;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
 
-    private static String msg = "Master changed!!!!!!!";
+    private static String msg = "Master changed!!";
     public static void main(String[] args) {
       
         System.out.printf(msg);
