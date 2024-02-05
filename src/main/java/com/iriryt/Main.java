@@ -8,6 +8,8 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello World!");
 
-       
+        System.out.println("new branch slow_work created");
+
+
     }
 }
